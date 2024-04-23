@@ -1,0 +1,44 @@
+[
+  {
+    "id": "148aeac6-8db0-4828-ae34-43d084a31909",
+    "make": "BMW",
+    "model": "BMW X7",
+    "year": 2023
+  },
+  {
+    "id": "1db57f99-139e-4b66-a059-43d1a800766d",
+    "make": "Tesla",
+    "model": "Model X",
+    "year": 2020
+  },
+  {
+    "id": "cb47f61c-1680-4a7f-a243-7bc06eb1f760",
+    "make": "Tesla",
+    "model": "Model Y",
+    "year": 2021
+  },
+  {
+    "id": "bf1d82cf-5819-4f14-b2bc-819e4b167ea6",
+    "make": "Nissan",
+    "model": "Z",
+    "year": 2019
+  },
+  {
+    "id": "050178bd-2658-4dce-94ff-74b9ae9b5f46",
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2018
+  },
+  {
+    "id": "7ec3b1e4-020d-4c24-9a61-fbd166fddf0d",
+    "make": "KIA",
+    "model": "Kia Stonic",
+    "year": 2015
+  },
+  {
+    "id": "1ea0408c-fd8c-4936-963b-6668b7ffc308",
+    "make": "KIA",
+    "model": "Kia Sorento",
+    "year": 2021
+  }
+]
