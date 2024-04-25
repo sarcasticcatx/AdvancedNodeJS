@@ -3,8 +3,7 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { CarsModule } from './cars/cars.module';
 import { TypeOrmModule } from '@nestjs/typeorm';
-import { Cars } from './cars/entities/cars.entities'; // ako stavam entities [Cars]
-
+import { Cars } from './cars/entities/cars.entities'; 
 
 @Module({
   imports: [
