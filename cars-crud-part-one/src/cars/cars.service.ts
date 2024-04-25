@@ -6,7 +6,7 @@ import { CreateCarDto } from "./dtos/create.car.dto";
 import { UpdateCarDto } from "./dtos/update.car.dto";
 import { v4 as uuid } from "uuid"
 
-//ne trebase tuka uuid ali nesho ne mi raboteshe ko sho treba i morav da go staam
+
 @Injectable()
 export class CarsService {
     //get all / retrive all cars
